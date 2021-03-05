@@ -8,13 +8,17 @@ header {
 }
 #img-header {
     float: left;
-    width: 40px;
+    /* width: 40px; */
     height: 40px;
     padding-top: 20px;
     padding-left: 50px;
 }
 nav {
     float: right;
+}
+a {
+    text-decoration: none;
+    color: tomato;
 }
 ul  li{
     display: inline;
@@ -28,7 +32,7 @@ article {
     margin-right: 30%;
     margin-left: 30%;
     margin-top: 10px;
-    height: 150px;
+    height: 180px;
     background-color: tomato;
 
 
